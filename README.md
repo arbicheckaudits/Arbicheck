@@ -1,2 +1,2 @@
 # Arbicheck
-Public audits by ArbiCheck auditing firm
+Public audits by www.arbicheck.com auditing firm
